@@ -1,0 +1,15 @@
+C:\Users\alesg\.vscode\000\bin\Debug\net6.0\000.exe
+C:\Users\alesg\.vscode\000\bin\Debug\net6.0\000.deps.json
+C:\Users\alesg\.vscode\000\bin\Debug\net6.0\000.runtimeconfig.json
+C:\Users\alesg\.vscode\000\bin\Debug\net6.0\000.dll
+C:\Users\alesg\.vscode\000\bin\Debug\net6.0\000.pdb
+C:\Users\alesg\.vscode\000\obj\Debug\net6.0\000.csproj.AssemblyReference.cache
+C:\Users\alesg\.vscode\000\obj\Debug\net6.0\000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alesg\.vscode\000\obj\Debug\net6.0\000.AssemblyInfoInputs.cache
+C:\Users\alesg\.vscode\000\obj\Debug\net6.0\000.AssemblyInfo.cs
+C:\Users\alesg\.vscode\000\obj\Debug\net6.0\000.csproj.CoreCompileInputs.cache
+C:\Users\alesg\.vscode\000\obj\Debug\net6.0\000.dll
+C:\Users\alesg\.vscode\000\obj\Debug\net6.0\refint\000.dll
+C:\Users\alesg\.vscode\000\obj\Debug\net6.0\000.pdb
+C:\Users\alesg\.vscode\000\obj\Debug\net6.0\000.genruntimeconfig.cache
+C:\Users\alesg\.vscode\000\obj\Debug\net6.0\ref\000.dll
